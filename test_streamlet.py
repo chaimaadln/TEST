@@ -2,7 +2,7 @@ import streamlit as st
 
 # Create a title for the app
 st.title("My Streamlit App")
-st.write("hello worlfd]")
+st.write("hello world")
 
 # Add a text input field
 user_input = st.text_input("Enter some text")
